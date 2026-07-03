@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnshTakwal/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -57,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
