@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshTakwal/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AnshTakwal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshTakwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/AnshTakwal/DSA/tree/master/0649-dota2-senate) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshTakwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
