@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AnshTakwal/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AnshTakwal/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/AnshTakwal/DSA/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshTakwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AnshTakwal/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
