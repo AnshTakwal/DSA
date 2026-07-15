@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnshTakwal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTakwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshTakwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/AnshTakwal/DSA/tree/master/0649-dota2-senate) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTakwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/AnshTakwal/DSA/tree/master/0649-dota2-senate) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTakwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshTakwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnshTakwal/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
