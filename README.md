@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnshTakwal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshTakwal/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshTakwal/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AnshTakwal/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnshTakwal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnshTakwal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnshTakwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
