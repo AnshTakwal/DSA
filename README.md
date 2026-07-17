@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnshTakwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnshTakwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/AnshTakwal/DSA/tree/master/1200-minimum-absolute-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnshTakwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnshTakwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -155,4 +159,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AnshTakwal/DSA/tree/master/0204-count-primes) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
