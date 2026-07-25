@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnshTakwal/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AnshTakwal/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AnshTakwal/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshTakwal/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshTakwal/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/AnshTakwal/DSA/tree/master/0204-count-primes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnshTakwal/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnshTakwal/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AnshTakwal/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AnshTakwal/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AnshTakwal/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnshTakwal/DSA/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
