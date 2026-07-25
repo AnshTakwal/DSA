@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnshTakwal/DSA/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnshTakwal/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnshTakwal/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnshTakwal/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshTakwal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/AnshTakwal/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
