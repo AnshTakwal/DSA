@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AnshTakwal/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/AnshTakwal/DSA/tree/master/0239-sliding-window-maximum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshTakwal/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/AnshTakwal/DSA/tree/master/1200-minimum-absolute-difference) |
