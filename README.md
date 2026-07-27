@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnshTakwal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AnshTakwal/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/AnshTakwal/DSA/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnshTakwal/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AnshTakwal/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnshTakwal/DSA/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/AnshTakwal/DSA/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
