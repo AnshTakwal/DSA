@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshTakwal/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/AnshTakwal/DSA/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
+| [0509-fibonacci-number](https://github.com/AnshTakwal/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnshTakwal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AnshTakwal/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AnshTakwal/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AnshTakwal/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/AnshTakwal/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshTakwal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
+| [0509-fibonacci-number](https://github.com/AnshTakwal/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnshTakwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnshTakwal/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnshTakwal/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
