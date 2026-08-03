@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnshTakwal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AnshTakwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AnshTakwal/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/AnshTakwal/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnshTakwal/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnshTakwal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnshTakwal/DSA/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/AnshTakwal/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnshTakwal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
