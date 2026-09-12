@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnshTakwal/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshTakwal/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnshTakwal/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AnshTakwal/DSA/tree/master/0204-count-primes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshTakwal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/AnshTakwal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/AnshTakwal/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AnshTakwal/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnshTakwal/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AnshTakwal/DSA/tree/master/0242-valid-anagram) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnshTakwal/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/AnshTakwal/DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AnshTakwal/DSA/tree/master/0844-backspace-string-compare) |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnshTakwal/DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AnshTakwal/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
