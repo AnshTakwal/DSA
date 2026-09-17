@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AnshTakwal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/AnshTakwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnshTakwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshTakwal/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshTakwal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/AnshTakwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshTakwal/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnshTakwal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnshTakwal/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshTakwal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AnshTakwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/AnshTakwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshTakwal/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnshTakwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnshTakwal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
