@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AnshTakwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/AnshTakwal/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnshTakwal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AnshTakwal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnshTakwal/DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AnshTakwal/DSA/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AnshTakwal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshTakwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/AnshTakwal/DSA/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/AnshTakwal/DSA/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AnshTakwal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
