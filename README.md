@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AnshTakwal/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnshTakwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AnshTakwal/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/AnshTakwal/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnshTakwal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnshTakwal/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AnshTakwal/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnshTakwal/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AnshTakwal/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
