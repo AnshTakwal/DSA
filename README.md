@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -341,19 +342,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AnshTakwal/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
