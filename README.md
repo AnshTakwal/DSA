@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AnshTakwal/DSA/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnshTakwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AnshTakwal/DSA/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/AnshTakwal/DSA/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AnshTakwal/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AnshTakwal/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/AnshTakwal/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -379,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AnshTakwal/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AnshTakwal/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
