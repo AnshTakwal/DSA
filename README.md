@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AnshTakwal/DSA/tree/master/0735-asteroid-collision) |
+| [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/AnshTakwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AnshTakwal/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnshTakwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnshTakwal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshTakwal/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/AnshTakwal/DSA/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AnshTakwal/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnshTakwal/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AnshTakwal/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshTakwal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AnshTakwal/DSA/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/AnshTakwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshTakwal/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnshTakwal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AnshTakwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AnshTakwal/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/AnshTakwal/DSA/tree/master/0649-dota2-senate) |
+| [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/AnshTakwal/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTakwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshTakwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AnshTakwal/DSA/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/AnshTakwal/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
