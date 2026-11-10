@@ -3,13 +3,14 @@ class Solution {
         int l = 0;
         int m = 0;
         int r = nums.length-1;
+        
         while(m<=r){
             if(nums[m] == 0){
                 int temp = nums[m];
                 nums[m] = nums[l];
-                nums[l] = temp;
-                l++;
+                nums[l] = temp;    
                 m++;
+                l++;            
             }
             else if(nums[m] == 1){
                 m++;
@@ -17,11 +18,12 @@ class Solution {
             else{
                 int temp = nums[m];
                 nums[m] = nums[r];
-                nums[r] = temp;
+                nums[r] = temp;    
+               
                 r--;
-                
             }
         }
-        
+
+         
     }
 }
